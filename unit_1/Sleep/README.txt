@@ -11,12 +11,13 @@ Variable Name			Description				Details
 Animal				Animal name				Character [string]
 Body				Body weight				Numeric [kg] 
 Brain				Brain weight				Numeric [g]
-SWsleep				Slow wave (ìnon-dreamingî) sleep	Numeric [hours]
-Parasleep			Paradoxical (ìdreamingî) sleep		Numeric [hours]
+SWsleep				Slow wave (‚Äúnon-dreaming‚Äù) sleep	Numeric [hours]
+Parasleep			Paradoxical (‚Äúdreaming‚Äù) sleep		Numeric [hours]
 Totsleep			Total sleep				Numeric [hours]
 Life				Maximum life expectancy			Numeric [years]
 Gest				Gestation time				Numeric [days]
-Pred				Predation index				Numeric [1 ñ 5] 1 = least likely to be preyed upon, 5 = most likely to be preyed upon
-Exposure			Sleep exposure index			Numeric [1 ñ 5] 1 = least amount of exposure during sleep (mammal sleeps indoors or in a den), 5 = most amount of exposure during sleep
-Danger				Overall danger index			Numeric [ 1 ñ 5] 1 = least amount of danger from other animals, 5 = most amount of danger from other animals
- 
+Pred				Predation index				Numeric [1 ‚Äì 5] 1 = least likely to be preyed upon, 5 = most likely to be preyed upon
+Exposure			Sleep exposure index			Numeric [1 ‚Äì 5] 1 = least amount of exposure during sleep (mammal sleeps indoors or in a den), 5 = most amount of exposure during sleep
+Danger				Overall danger index			Numeric [ 1 ‚Äì 5] 1 = least amount of danger from other animals, 5 = most amount of danger from other animals
+
+ 
