@@ -12,4 +12,5 @@ ID			Character ID									Numeric [ID]
 Gender			Character gender								Numeric [0,1] 0 = male, 1 = female
 Activity		Indicator that the character was depicted engaged in sexual activity or not	Numeric [0,1] 0 = no sexual activity, 1 = sexual activity
 Survival		Indicator that the character survived the film or not				Numeric [0,1] 0 = did not survive, 1 = survived
- 
+
+ 
