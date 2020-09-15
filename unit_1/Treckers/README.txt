@@ -28,4 +28,5 @@ Ginkgo				Indicator for taking acetazolamide	Numeric [0,1] 0 = no, 1 = yes
 AMS_out				Indicator for acute mountain sickness	Numeric [0,1] 0 = no, 1 = yes
 Headache_out			Indicator for headache			Numeric [0,1] 0 = no, 1 = yes
 
- 
+
+ 
