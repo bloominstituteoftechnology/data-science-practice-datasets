@@ -1,5 +1,5 @@
 This data comes from a study of an 1854 cholera outbreak in South London. Because of the haphazard development of the 
-seweage system in London in the 1800s, the same general area was often serviced by more than one water company. 
+sewage system in London in the 1800s, the same general area was often serviced by more than one water company. 
 The South London districts in this study had water supplied by either the Southwark & Vauxhall Company or the 
 Lambeth Company. 
 
