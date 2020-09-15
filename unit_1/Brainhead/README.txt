@@ -7,7 +7,8 @@ Biometrika, Vol. 4, pp105-123.
 Data Dictionary:
 Variable Name			Description			Details
 Gender				Participant gender		Numeric [1, 2] 1= male, 2 = female
-Age				Participant age group		Numeric [1, 2] 1 = 20 – 46 years old, 2 = 46+ years old
+Age				Participant age group		Numeric [1, 2] 1 = 20 â€“ 46 years old, 2 = 46+ years old
 Head				Head size			Numeric [cubic cm]
 Brain				Brain weight			Numeric [grams]
- 
+
+ 
