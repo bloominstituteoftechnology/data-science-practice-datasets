@@ -4,7 +4,5 @@ and this summary measure is recorded in the Bodytemp.csv dataset.
 
 Source: Mackowiak, P. A., Wasserman, S. S., and Levine, M. M.  (1992), 
 "A Critical Appraisal of 98.6 Degrees F, the Upper Limit of the Normal Body Temperature, 
-and Other Legacies of Carl Reinhold August Wunderlich," Journal of the American Medical Association_, 268, 1578-1580.
+and Other Legacies of Carl Reinhold August Wunderlich," Journal of the American Medical Association, 268, 1578-1580.
 
-Data Dictionary:
-Variable Name            Description                      DetailsID                       Participant ID                   Numeric [ID]Body_temp                Body temperature                 Numeric [Degrees F] 
