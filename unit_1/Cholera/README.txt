@@ -12,4 +12,5 @@ District			District of residence			Character [string]
 Company				Company providing drinking water	Numeric [1,2] 1 = Southwark & Vauxhall Company   2 = Lambeth Company
 Survival			Survival of cholera epidemic		Numeric [0,1] 0 = did not die of cholera, 1 = died of cholera
 
- 
+
+ 
