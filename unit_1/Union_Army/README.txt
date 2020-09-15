@@ -17,4 +17,5 @@ Death_illness			Number of deaths due to illness					Numeric [count]
 Death_injury			Number of deaths due to injury					Numeric [count]
 Pct_farmers			Percent of individuals in the company who were farmers		Numeric [percent]
 Pct_foreign			Percent of individuals in the company who were foreign born	Numeric [percent]
- 
+
+ 
