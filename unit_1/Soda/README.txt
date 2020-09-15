@@ -9,7 +9,8 @@ Variable Name		Description				Details
 Drink			Type of soft drink			Numeric [1,2,3,4] 1 = Coca-Cola, 2=Diet Coke, 3=Pepsi, 4=Diet Pepsi 
 Brand			Soft drink brand			Numeric [1,2], 1=Coke, 2 = Pepsi
 Sugar			Sugar content of soft drink		Numeric [1,2], 1 = sugar, 2=diet
-Loc			Restaurant franchise			Numeric [1 – 12], 1=Red Lobster, 2=Applebees, 3=McDonalds, 4=Burger King, 5=Hardees
+Loc			Restaurant franchise			Numeric [1 â€“ 12], 1=Red Lobster, 2=Applebees, 3=McDonalds, 4=Burger King, 5=Hardees
 										  6=Arbys, 7=Subway1, 8=Subway2 ,  9=KFC, 10=PizzaHut, 11=TacoBell, 12=Wendys
 Caffeine		Caffeine content of soft drink		Numeric [mg/12oz]
- 
+
+ 
