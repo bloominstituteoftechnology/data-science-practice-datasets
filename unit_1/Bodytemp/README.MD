@@ -7,4 +7,7 @@ Source: Mackowiak, P. A., Wasserman, S. S., and Levine, M. M.  (1992),
 and Other Legacies of Carl Reinhold August Wunderlich," Journal of the American Medical Association_, 268, 1578-1580.
 
 Data Dictionary:
-Variable Name            Description                      DetailsID                       Participant ID                   Numeric [ID]Body_temp                Body temperature                 Numeric [Degrees F] 
+Variable Name            Description                      Details
+ID                       Participant ID                   Numeric [ID]
+Body_temp                Body temperature                 Numeric [Degrees F]
+ 
