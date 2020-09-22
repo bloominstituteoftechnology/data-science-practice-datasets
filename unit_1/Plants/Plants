@@ -1,0 +1,8 @@
+How do environmental factors contribute to the diversity of plant life on an island? The Plants.csv dataset provides information on a number of characteristics of the British Isles (not including Ireland or Britain itself) including latitude, area, and distance from Britain2,3. We wish to use linear regression to determine if islands with a larger area are home to a greater number of species of plant life.
+
+Sources:
+
+M.P. Johnson and D.S. Simberloff (1974). "Environmental Determinants
+of Island Species Numbers in the British Isles," Journal of Biogeography, Vol. 1, pp. 149-154
+
+E.D. McCoy and E.F. Connor (1976). "Environmental Determinants of Island Species Number in the British Isles: A Reconsideration," Journal of Biogeography, Vol. 3, pp. 381-382.
