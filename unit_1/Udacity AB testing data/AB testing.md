@@ -15,3 +15,7 @@ Here's the experiment: Udacity tested a change where if the student clicked "sta
 If the student indicated 5 or more hours per week, she would be taken through the checkout process as usual. If she indicated fewer than 5 hours per week, a message would appear indicating that Udacity courses usually require a greater time commitment for successful completion and suggesting that the student might like to access the course materials for free.
 
 At this point, the student would have the option to continue enrolling in the free trial, or access the course materials for free instead.
+
+C -Pageviews,C-Clicks,C-Enrollments,C-Payments indicates pageviews, clicks, enrollments and payments in the control group
+
+E-Pageviews,E-Clicks,E-Enrollments,E-Payments indicates pageviews, clicks, enrollments and payments in the experimental group
